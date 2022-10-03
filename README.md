@@ -6,3 +6,6 @@ Includes :
 2. Web Scraped Data
 3. Exploratory Data Analysis
 4. ML Models
+
+DATASET USED :
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
